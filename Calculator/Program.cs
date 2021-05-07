@@ -11,7 +11,7 @@ namespace Calculator
             Substract = 2
         }
 
-        public enum OptionType
+        static void Main(string[] args)
         {
             var option = DisplayMenuForUser();
 
